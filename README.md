@@ -4,7 +4,7 @@
 </p>
 <h3 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: </h3>
 
-- 🏦 I'm tech enthusiast who enjoys reading and exploring.
+- 🏦 I'm a tech enthusiast who enjoys reading and exploring.
 - 💬 Talk to me about tech, fiction, games and current affairs.
 - 💻 I use **.java**, **.py**, and **.ipynb** the most.
 - 🌱 I’m currently learning **Machine Learning, APIs**
